@@ -69,12 +69,13 @@ body {
     margin-bottom: 30px;
 }
 
-.contents p {
-    margin-bottom: 20px;
-}
 
 .contents .img img {
     width: 100%;
+}
+
+.contents p {
+    margin-bottom: 20px;
 }
 
 .cities {
@@ -90,7 +91,7 @@ body {
 }
 
 .cities .photo img {
-    border-radius: 10px;
+    border-radius: 12px;
 }
 
 .cities .text h3 {
